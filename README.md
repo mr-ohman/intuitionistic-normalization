@@ -1,2 +1,2 @@
 # intuitionistic-normalization
-Implementation of Intuitionistic Model Constructions and Normalization Proofs in Agda
+This is an implementation in Agda of the paper [Intuitionistic Model Constructions and Normalization Proofs](http://www.cse.chalmers.se/~peterd/papers/Glueing.pdf) by Thierry Coquand and Peter Dybjer.
